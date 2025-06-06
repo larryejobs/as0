@@ -7,7 +7,7 @@
 * vmess 和 vless 的 uuid 或 trojan 和 shadowsocks 的密码，路径既可以自定义，又或者使用默认值
 * 集成哪吒探针，可以自由选择是否安装
 * 部署完成如发现不能上网，请检查域名是否被墙，可使用生成的 Argo 节点或 Cloudflare CDN 或者 worker 解决。
-####
+###
 ## 部署
 #####
 * 注册任意一家 PaaS 云服务商
