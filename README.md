@@ -1,6 +1,6 @@
 ## Argo xray for PaaS
 
-####### 项目特点
+######## 项目特点
 ######EEE
 * 本项目用于在任意一家 PaaS 云服务商部署 xray ，采用的方案为 Argo + Nginx + WebSocket + VMess/Vless/Trojan/Shadowsocks + TLS
 * xray 核心文件和配置文件作了“特殊处理”，每个项目都不同，大大降低被封和连坐风险
